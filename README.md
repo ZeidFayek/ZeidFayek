@@ -11,7 +11,7 @@
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.
-- 👨‍💻 Check out <a href="https://myportfoliozeyad.netlify.app/">my portfolio</a> at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
+- 👨‍💻 Check out <a href="https://myportfoliozeid.netlify.app/">my portfolio</a> at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
 
 <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tech Stack</h2>
 
